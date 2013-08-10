@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- http://stackoverflow.com/questions/1883425/android-borderless-dialog -->
+    <style name="Theme_Dialog_Translucent" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+</resources>
